@@ -1,1 +1,1 @@
-Jogo da forma para treinamento da linguagem Python.
+Jogo da forca para treinamento da linguagem Python.
